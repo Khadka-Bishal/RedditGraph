@@ -46,7 +46,7 @@ Contributions to this project are welcome. Whether it's adding new features, imp
 
 ## License
 
-This project is open source and available under the MIT License. See the LICENSE file for more information.
+This project is open source and available under the MIT License. 
 
 ## Acknowledgments
 
